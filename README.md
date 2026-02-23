@@ -74,11 +74,11 @@ Full Stack Development Intern – Techvolt Software Pvt Ltd
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srijanani-02&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijanani-02&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanani-02&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanani-02&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
