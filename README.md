@@ -47,7 +47,7 @@ I am a Computer Science Engineering undergraduate with strong interest in proble
 
 ## 🚀 Projects
 
-### 🍽️ Eat'osure – AI-Powered Food Allergen and Diet Planner
+### 🍽️ Eat'osure – AI-Powered Food Allergen and Diet Planner Web Application
 
 Developed a full-stack web application that helps users safely select food based on allergen profile.
 
