@@ -1,4 +1,4 @@
-# Hey There 👋 I'm Sri Janani P
+# Hello, I'm Sri Janani P 👋
 
 <a href="https://linkedin.com/in/sri-janani-p">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
