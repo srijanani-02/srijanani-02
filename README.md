@@ -1,13 +1,13 @@
-# Hi, I'm Sri Janani P 👋
+# Hello, I'm Sri Janani P 👋
 
 <a href="https://linkedin.com/in/sri-janani-p">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a> 
 <a href="mailto:srijanani2526@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
 </a>
 
-<br><br>
+<br>
 
 🎓 B.E Computer Science Engineering (3rd Year)  
 🏫 Sri Ramakrishna Engineering College, Coimbatore  
@@ -19,17 +19,33 @@ I am a Computer Science Engineering undergraduate with strong interest in proble
 
 ## 🚀 Technologies
 
-**Programming Languages**  
-<img src="https://skillicons.dev/icons?i=java,python,js"/>
+### Programming Languages
+<p>
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png">
+</p>
 
-**Web Development**  
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+### Web Development
+<p>
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png">
+</p>
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+### Database
+<p>
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png">
+</p>
 
-**Tools**  
-<img src="https://skillicons.dev/icons?i=github,vscode,idea"/>
+### Tools
+<p>
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png">
+  <img height="60" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png">
+</p>
 
 ---
 
@@ -39,15 +55,18 @@ I am a Computer Science Engineering undergraduate with strong interest in proble
 
 Developed a full-stack web application that helps users safely select food based on allergen profile.
 
-**Technologies Used**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+**Technologies Used**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+</p>
 
 Frontend:  
 https://github.com/srijanani-02/Eat-o-sure  
@@ -61,14 +80,17 @@ https://github.com/srijanani-02/eatosureo-ml
 
 Developed an AI-based assistive communication system using blink detection.
 
-**Technologies Used**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/pyttsx3-008080?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+**Technologies Used**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pyttsx3-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+</p>
 
 Repository:  
 https://github.com/srijanani-02/Eyevoke  
@@ -77,19 +99,19 @@ https://github.com/srijanani-02/Eyevoke
 
 ## 💼 Internship Experience
 
-Frontend Development Intern – Censoware Technologies LLP  
-Full Stack Development Intern – Techvolt Software Pvt Ltd  
+Frontend Development Intern  
+Censoware Technologies LLP  
+
+Full Stack Development Intern  
+Techvolt Software Pvt Ltd  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srijanani-02&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanani-02&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=srijanani-02&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanani-02&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
